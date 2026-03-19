@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot AI Dashboard",
+  "description": "A professional AI-powered translation dashboard capable of translating text, images, documents, and audio into multiple languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
